@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">WaiGoProController</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="videoresolution_array">
+        <item>4K</item>
+        <item>4K SuperView</item>
+        <item>2.7K</item>
+        <item>2.7K SuperView</item>
+        <item>2.7K 4:3</item>
+        <item>1440p</item>
+        <item>1080p SuperView</item>
+        <item>1080p</item>
+        <item>960p</item>
+        <item>720p SuperView</item>
+        <item>720p</item>
+        <item>WVGA</item>
+    </string-array>
+    <string-array name="FPS_array">
+        <item>240fps</item>
+        <item>120fps</item>
+        <item>90fps</item>
+        <item>80fps</item>
+        <item>60fps</item>
+        <item>50fps</item>
+        <item>48fps</item>
+        <item>30fps</item>
+        <item>25fps</item>
+        <item>24fps</item>
+    </string-array>
+    <string-array name="whitebalance_array">
+        <item>Auto</item>
+        <item>3000k</item>
+        <item>5500k</item>
+        <item>6500k</item>
+        <item>Native</item>
+    </string-array>
+</resources>

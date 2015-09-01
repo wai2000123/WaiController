@@ -15,7 +15,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
-
+//Branch2
 public class GoProAPI {
     private static final String TAG = "API Return";
     HttpURLConnection conn = null;

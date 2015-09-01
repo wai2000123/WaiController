@@ -44,7 +44,6 @@ public class GoProAPI {
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }
-        //DD
         InputStream inputStream = null;
         String result = "";
         try {
